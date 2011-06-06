@@ -1,0 +1,55 @@
+Steps for accounting for how many pennies can be put on the Golden Gate Bridge without them overlapping:
+
+1) First, I figured the best starting point to be finding out the dimensions of both the golden gate bridge and a penny.  I found the length and width of the bridge, which were 9,150 feet and 90 feet respectively.  As for a penny, I found it to have a diameter of .75 inches, and a width of .05 inches.
+Recap:
+Bridge length=9,150   width=90
+Penny  width=0.05   diameter=0.75
+
+2) My next step was to find out how many pennies could be placed side by side on their edge in one row across the width of the bridge.  Here is the math:
+90 ft * 12 in = 1080 in /0.05 in = 21600 pennies
+
+So 21,600 pennies are in one row across the width of the bridge.
+
+3) Now to find out how many rows of pennies on their edge can be put on the bridge.  I started by taking the length of the bridge and converting that to inches.
+9150 ft * 12 in = 109,800 in
+Then divide that result by the diameter of a penny, which is 0.75 in.
+109,800 in / 0.75 in = 146,400 rows
+So there are 146,400 rows of pennies along the length of the Golden Gate Bridge.
+
+4) Now to find out how many pennies can fit on the top of the bridge surface. Take how many pennies are in a single row and multiple it by the number of rows.
+
+21,600 pennies per row * 146,600 rows = 3,162,240,000 pennies on the surface of the bridge. You could theoretically end here, but with the use of a form of adhesive, you can fit many more than 3,162,240,000 pennies on the Golden Gate Bridge. Stop here if that is all you were looking for, continue if you wanted more.
+
+
+
+5) The first place I saw an easy place to add more pennies was on the opposite side of the driving surface.  For this, I simply multiplied the result from the top by two.
+
+3,162,240,000 * 2 = 6,324,480,000 pennies for both the top and bottom of the driving/walking surface on the bridge.
+
+6) The next step is to see how many pennies can be placed on the support cables of the bridge.  Their lengths are 7,650 ft and they have a diameter of 36 3/8 in.  
+
+When calculating how many pennies can be placed around the cable in one ring.  To do this, I added 1.5 in to the diameter to make it 37 7/8 in, thus representing what it would be if there was a ring of pennies around it on their edge. Here's the math:
+37 7/8 in * 3.14159 = 118.987 in for the circumference
+118.987 in / 0.05 in = 2,379 pennies in one ring around the cable
+
+7) The next step is to see how many of these rings fit along the length of the bridge.  To do so, you take the length and divide it by the diameter of a penny.
+7,650 ft * 12 in = 91,800 in
+91,800 in / 0.75 in = 122,400 rings
+
+8) Taking the number of rings times the number of pennies in a ring, we get the total on one length of cable.
+122,400 * 2,379 = 291,189,600 
+To get the overall total, we times that by 2.
+291,189,600 * 2 = 582,379,200 pennies on the cables.
+
+Total to this point: 6,324,480,000 + 582,379,200 = 6,906,859,200 pennies
+
+9) Now on to the towers.  A tower is 746 ft tall and, at its base, a little wider than 90 ft, since that is the width of the bridge surface.  But I lack sufficient time to, based on the few dimensions I have, scale the bridge from a picture to find out the size of the spaces in the bridge, along with how much its width decreases as it gets higher, plus some other necessary things.
+
+So to conclude, since the question is a little ambiguous, I present two separate answers. 
+
+1) Surface of the bridge, number of pennies equals 3,162,240,000
+
+2) Going beyond that surface to include (using adhesive measures) both the opposite side of the surface and the cables, the total comes to…
+6,906,859,200 pennies
+
+I know there are many more surfaces, such as the steel work under the bridge, the vertical support wires from the bridge surface to the cable, and even under water portions of the bridge, if that is what you were hoping for. Sorry for having to stop short.
